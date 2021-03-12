@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": "ljlwcx0nw",
+      "name": "Áo Cưới",
+      "categoryId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0045.jpg?alt=media&token=f4b6f3cd-c417-4a6d-9be4-ad811ae5be70",
+      "details": "                                                                                                                                                                                                        Model is 5'9\" wearing Size XS TallAnd without further ado, we give you our finest Shopify Theme FOXic! It is a subtle, complex and yet an extremely easy to use template for anyone, who wants to create own website in ANY area of expertise.",
+      "price": "999999",
+      "priceSale": "888888",
+      "quantity": "100"
+    },
+    {
+      "id": "h7a5yxmo0",
+      "name": "Áo Cưới",
+      "categoryId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0103.jpg?alt=media&token=bf70a394-2e1d-4e90-a69f-f4b95a3a198e",
+      "details": "                                                                                áassadasđá                                        ",
+      "price": "67890",
+      "priceSale": "56789",
+      "quantity": "123"
+    },
+    {
+      "id": "72xqlqhi2",
+      "name": "Dj Thanh Be",
+      "categoryId": "pcx6a7fzu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0071.JPG?alt=media&token=b4b3c8ee-a59c-4190-98d3-d2311aae449c",
+      "details": "Hình ảnh chỉ mang tính chất minh họa                                        ",
+      "price": "9999.000",
+      "priceSale": "686.000",
+      "quantity": "1"
+    },
+    {
+      "id": "40w7pls2y",
+      "name": "Aeather Pegged Pants ppp",
+      "categoryId": "pcx6a7fzu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_2282.JPG?alt=media&token=44e07f2e-6467-4713-a7b7-08c594413592",
+      "details": "                                                                                Hiii anh hii                                        ",
+      "price": "56789",
+      "priceSale": "45678",
+      "quantity": "1"
+    },
+    {
+      "id": "iu53ogcqd",
+      "name": "Áo Cưới111",
+      "categoryId": "pcx6a7fzu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0102.JPG?alt=media&token=ef7850d6-cb93-4ff1-9cad-7f76235c6d08",
+      "details": "                                                                                                                                                                 Details  11                                     ",
+      "price": "1111111",
+      "priceSale": "11111",
+      "quantity": "0"
+    },
+    {
+      "id": "keg8gm4uu",
+      "name": "Test",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0003.JPG?alt=media&token=59f6af17-3b82-4d65-bfa3-aaad5d1415d8",
+      "details": "                                                                                                                                                                test                                        ",
+      "price": "11111",
+      "priceSale": "11111",
+      "quantity": "2"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Women"
+    },
+    {
+      "id": "2",
+      "name": "Men"
+    },
+    {
+      "id": "pcx6a7fzu",
+      "name": "Thành Bé Nhỏ"
+    }
+  ],
+  "sliders": [
+    {
+      "id": "1",
+      "title": "The best trends of Summer 2021",
+      "image": "https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/slider/slide-fashion-02.webp"
+    },
+    {
+      "id": "2",
+      "title": "The best trends of Spring 2021",
+      "image": "https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/slider/slide-fashion-01.webp"
+    }
+  ],
+  "blog": [
+    {
+      "id": "3rgw26wiz",
+      "title": "Fashion Trends You Need to Follow",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0002.JPG?alt=media&token=36a439ea-ddfa-4677-a885-1e126a0d09c9",
+      "details": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.                                        ",
+      "date": "2021-03-04"
+    },
+    {
+      "id": "h7me8a9oj",
+      "title": "Trends to Try This Season",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0004.JPG?alt=media&token=95270c76-8adc-40f6-b9c6-2f147129022f",
+      "details": "To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.                                        ",
+      "date": "2021-03-05"
+    },
+    {
+      "id": "8hd92qpa7",
+      "title": "Working From Home",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0005.JPG?alt=media&token=5b2e54e4-d04c-4d23-9c21-51f87bd5ce73",
+      "details": "To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.                                        ",
+      "date": "2021-03-06"
+    },
+    {
+      "id": "ct7dfat8g",
+      "title": "Trends to Try This Season 1111",
+      "image": "https://firebasestorage.googleapis.com/v0/b/huskyshop-fb37d.appspot.com/o/images%2FIMG_0007.JPG?alt=media&token=d6c4e2df-d312-4f07-ae67-ab474bd624b5",
+      "details": "To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.                                        ",
+      "date": "2021-03-02"
+    }
+  ]
+}

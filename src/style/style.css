@@ -1,0 +1,70 @@
+.mega-menu {
+    display: none;
+    left: 0;
+    position: absolute;
+    /* text-align: left; */
+    width: 100%;
+}
+
+
+/* #hoverable Class Styles */
+
+.hoverable {
+    position: relative;
+}
+
+.hoverable>a:after {
+    content: "\25BC";
+    font-size: 10px;
+    padding-left: 6px;
+    position: relative;
+    top: -1px;
+}
+
+.hoverable:hover .mega-menu {
+    display: block;
+}
+
+.hoverable ul li a:hover {
+    margin-left: 1px;
+}
+
+.cate {
+    position: relative;
+    width: 1000%;
+    max-width: 300px;
+}
+
+
+/* Make the image to responsive */
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+/* The overlay effect - lays on top of the container and over the image */
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    color: white;
+}
+
+
+/* When you mouse over the container, fade in the overlay title */
+
+.cate:hover .overlay {
+    opacity: 1;
+}
+
+
+/* End  */
